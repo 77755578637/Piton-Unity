@@ -23,6 +23,7 @@
 # Задание 1
 Ход работы:
 Написать прогрраму для вывода Hello World на Python и Unity с использованием команды print().
+
 ![image](https://user-images.githubusercontent.com/114394198/192797382-82c2bfbf-8647-471e-ae36-f4cac410b2fe.png)
 ![image](https://user-images.githubusercontent.com/114394198/192797458-85dc1411-c53e-4e4f-91b4-79876a870153.png)
 ![Screenshot_1](https://user-images.githubusercontent.com/114394198/192797480-02a2b616-7861-431d-b442-4e5fdf334fb0.jpg)
